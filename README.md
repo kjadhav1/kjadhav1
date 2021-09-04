@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kjadhav1
+- 👀 I’m interested in Tableau,Python, SQL Server
+- 🌱 I’m currently learning MAchine Learning
+- 💞️ I’m looking to collaborate on Tableau 
+- 📫 How to reach me kjadhav11@yahoo.com
