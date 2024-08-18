@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kjadhav1
-- 👀 I’m interested in Tableau,Python, SQL Server
-- 🌱 I’m currently learning Machine Learning
+- 👀 I have hands on experience on Looker, Tableau, Power BI, MySQL, HTML, Python, GCP 
+- 🌱 My interest lies in Machine Learning, Deep learning, Data science. 
 - 💞️ I’m looking to collaborate on Tableau 
-- 📫 How to reach me kjadhav11@yahoo.com
+- 📫 How to reach me onlykiranjadhav@gmail.com
